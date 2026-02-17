@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="d_vAlvwxPxEcgt7LT0YC">
+    <mxGraphModel dx="1106" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ur4bupxSDJFyoSa3LGuK-8" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" value="" vertex="1">
+          <mxGeometry height="120" width="180" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur4bupxSDJFyoSa3LGuK-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="40" width="60" x="300" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur4bupxSDJFyoSa3LGuK-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
+          <mxGeometry height="40" width="60" x="300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur4bupxSDJFyoSa3LGuK-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Y" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="285" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
